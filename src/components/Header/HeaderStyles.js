@@ -45,6 +45,11 @@ export const Div3 = styled.div`
   }
 `;
 
+// Brand
+export const Brand = styled.span`
+  font-size: 3rem;
+`;
+
 // Navigation Links
 export const NavLink = styled.a`
   font-size: 2rem;
